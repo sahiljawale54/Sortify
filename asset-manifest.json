@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sortify/static/css/main.4ef3f0a3.css",
+    "main.js": "/Sortify/static/js/main.4d33d878.js",
+    "index.html": "/Sortify/index.html",
+    "main.4ef3f0a3.css.map": "/Sortify/static/css/main.4ef3f0a3.css.map",
+    "main.4d33d878.js.map": "/Sortify/static/js/main.4d33d878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef3f0a3.css",
+    "static/js/main.4d33d878.js"
+  ]
+}
