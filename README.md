@@ -1,7 +1,3 @@
-# Visualize the Sorting Algos
-
-https://algovisualizer-76b0f.web.app
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
